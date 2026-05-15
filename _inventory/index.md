@@ -1,6 +1,6 @@
 ---
+layout: home
 title: Inventory Table of Contents
-layout: page
 ---
 
-[/inventory/networks](networks)
+[/inventory/networks](networks) - All of my networks documented
