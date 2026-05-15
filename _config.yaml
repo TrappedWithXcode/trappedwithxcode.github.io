@@ -13,3 +13,6 @@ collections:
   templates:
     output: true
     permalink: /templates/:path
+  logs:
+    output: true
+    permalink: /logs/:path
