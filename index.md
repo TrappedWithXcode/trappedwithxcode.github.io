@@ -46,7 +46,8 @@ Explore the different sections of my documentation hub:
 # Current Try Harding 
 
 * [ ] Migrating a raw disk to Proxmox server and testing slow VM (This is work related Investiagetion)
-* [ ] 
+* [ ] Make a HomeAssistant use a Ikea Button to dim lights or brighten a lamp
+* [ ] Follow the Firewall zone matrix on actual Firewall device
 
 # 📜 My Homelab Rules of Engagement
 
