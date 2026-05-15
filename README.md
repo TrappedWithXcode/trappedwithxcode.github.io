@@ -1,2 +1,4 @@
-# atticadmin.github.io
-A dedicated page for documenting my Homelab journey
+# Attic Admin - The Homelab Journey
+> This Github page serves as guide/tutorial and also a documentation to my homelab setup. 
+
+
