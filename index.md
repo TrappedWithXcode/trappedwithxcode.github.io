@@ -43,11 +43,13 @@ Explore the different sections of my documentation hub:
 *   🛠️ [**Templates**](/templates/) – My Kubernetes Manifest files, scripts, and configurations.
 *   🧠 [**Opinions & Notes**](/opinions/) – My thoughts on self-hosting, architecture, and tech.
 
-# Current Try Harding 
+# Current Tryhard
 
 * [ ] Migrating a raw disk to Proxmox server and testing slow VM (This is work related Investiagetion)
 * [ ] Make a HomeAssistant use a Ikea Button to dim lights or brighten a lamp
 * [ ] Follow the Firewall zone matrix on actual Firewall device
+
+*Last manually updated: May 2026*
 
 # 📜 My Homelab Rules of Engagement
 
