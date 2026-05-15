@@ -3,28 +3,28 @@ layout: page
 title: Networks
 ---
 
-Bridges
+# Bridges
 - Wifi network: Konarik
 - Subnet: 10.0.5.0/24
 - Zone
-IoT
+# IoT
 - Wifi network: Listok
 - Subnet: 10.0.6.0/24
 - Zone
-PrivilegedAccounts
+# PrivilegedAccounts
 - Wifi network: Strucik
 -  Subnet: 10.0.4.0/24
 - Zone
-Default
+# Default
 - Wifi network: Hrasok
 - Subnet: 192.168.0.0/24
 - Zone
-Servers
+# Servers
 - Subnet: 10.0.2.0/24
 - Zone
-Quarantine
+# Quarantine
 - Subnet:
 - Zone:
-AccessPoints
+# AccessPoints
 - Subnet: 
 - Zone:
