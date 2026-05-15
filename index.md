@@ -63,6 +63,7 @@ Explore the different sections of my documentation hub:
 ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+![AMD](https://img.shields.io/badge/AMD-%23ED1C24.svg?style=for-the-badge&logo=amd&logoColor=white)
 
 # Containers
 
