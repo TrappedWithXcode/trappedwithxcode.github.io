@@ -57,16 +57,23 @@ Explore the different sections of my documentation hub:
 2.  **No Cloud Allowed:** If a smart device requires an internet connection to talk to a server in Virginia just to turn on a lightbulb in my living room, it gets blocked at the firewall. 
 3.  **Assume Breach:** Even though it’s a home network, everything is segmented. The IoT devices don't get to talk to the Kubernetes cluster, and the cluster doesn't get to talk to my personal laptop.
 
-# 🧰 The Attic Stack
+# 🧰 Hardware
 
+![Raspberry](https://img.shields.io/badge/raspberry-%23A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)
+![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+
+# Containers
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+# Software
+
 ![Proxmox](https://img.shields.io/badge/Proxmox-E74C3C?style=for-the-badge&logo=Proxmox&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/homeassistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
-![Next Cloud](https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white)
-![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)
-![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+![Next Cloud](https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white)
