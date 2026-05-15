@@ -1,5 +1,5 @@
-title: My Homelab Journey
-description: Documenting my servers, networking, and self-hosted services.
+title: Attic Admin
+description: Documenting my servers, networking, and self-hosted services. All the infrastructure apart from few vps that are currently used to access everything on my network are hosted locally.
 theme: minima
 
 # If you want to group your documentation separately from blog posts
